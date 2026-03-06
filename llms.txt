@@ -1,19 +1,11 @@
-# Guidelines for AI and LLM Model Access
+User-agent: GPTBot
+Allow: /
 
-## Introduction
-This document provides guidelines for accessing AI and LLM models in the context of Bankingsolutions.
+User-agent: ClaudeBot
+Allow: /
 
-## Access Information
-1. **User Access**: Ensure that only authorized users from Bankingsolutions have access to the AI and LLM models.
-2. **Environment Security**: Implement secure environments for model deployment and access.
+User-agent: Google-Extended
+Allow: /
 
-## Model Use Cases
-- Customer service automation
-- Transaction analysis
-- Risk assessment and management
-
-## Compliance
-- Ensure compliance with applicable financial regulations when using AI and LLM models.
-
-## Further Information
-For more details, please visit the [Banking Solutions Website](https://www.bankingsolutions.com).
+User-agent: *
+Allow: /
