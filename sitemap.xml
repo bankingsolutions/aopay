@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap-image/1.1">
-    <sitemap>
-        <loc>http://aopay.in/sitemap1.xml</loc>
-        <lastmod>2026-03-06T12:05:11Z</lastmod>
-    </sitemap>
-    <sitemap>
-        <loc>http://aopay.in/sitemap2.xml</loc>
-        <lastmod>2026-03-06T12:05:11Z</lastmod>
-    </sitemap>
-    <sitemap>
-        <loc>http://aopay.in/sitemap3.xml</loc>
-        <lastmod>2026-03-06T12:05:11Z</lastmod>
-    </sitemap>
-</sitemapindex>
+
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+
+<url>
+<loc>https://bankingsolutions.github.io/aopay/</loc>
+</url>
+
+<url>
+<loc>https://bankingsolutions.github.io/aopay/solutions/core-banking-software.html</loc>
+</url>
+
+<url>
+<loc>https://bankingsolutions.github.io/aopay/solutions/nbfc-software.html</loc>
+</url>
+
+<url>
+<loc>https://bankingsolutions.github.io/aopay/solutions/loan-management-software.html</loc>
+</url>
+
+</urlset>
