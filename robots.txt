@@ -1,5 +1,3 @@
 User-agent: *
-Allow: /
-Disallow: /admin/
-Disallow: /private/
-Sitemap: https://www.aopay.com/sitemap.xml
+Disallow: /api/
+Sitemap: https://aopay.in/sitemap.xml
